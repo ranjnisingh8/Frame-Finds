@@ -1,0 +1,294 @@
+[
+  {
+    "id": 12,
+    "title": "Kanye West",
+    "price": 30,
+    "description": "Elevate your style with the signature look of Kanye West's exclusive clothing line.",
+    "category": "Singers",
+    "image": "https://i.pinimg.com/564x/83/3c/a2/833ca28f9496d4118e991b464409ce92.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 13,
+    "title": "Taylor Swift",
+    "price": 109.95,
+    "description": "Elevate your style with the signature look of Taylor Swift's exclusive clothing line.",
+    "category": "Singers",
+    "image": "https://i.pinimg.com/736x/40/2e/af/402eaf597230dd3255f0e99ee4056269.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 14,
+    "title": "Lana Del Rey",
+    "price": 109.95,
+    "description": "Elevate your style with the signature look of Lana Del Rey's exclusive clothing line.",
+    "category": "Singers",
+    "image": "https://i.pinimg.com/564x/d1/33/90/d1339049dce1afb10c60b80d1b51c54f.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 15,
+    "title": "Travis Scott",
+    "price": 109.95,
+    "description": "Elevate your style with the signature look of Travis Scott's exclusive clothing line.",
+    "category": "Singers",
+    "image": "https://i.pinimg.com/564x/3a/fa/82/3afa82978e38d68ce0ba97e99990c9cb.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 16,
+    "title": "Tyler The Creator",
+    "price": 109.95,
+    "description": "Elevate your style with the signature look of Tyler The Creator's exclusive clothing line.",
+    "category": "Singers",
+    "image": "https://i.pinimg.com/736x/d8/3a/db/d83adb50e4e19664c6140c8ff337ccc5.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 17,
+    "title": "Kendrick Lamar",
+    "price": 109.95,
+    "description": "Elevate your style with the signature look of Kendrick Lamar's exclusive clothing line.",
+    "category": "Singers",
+    "image": "https://i.pinimg.com/736x/8f/a6/57/8fa65739bccf8a086d5bb62450ae4e4a.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+
+
+
+
+
+
+  {
+    "id": 18,
+    "title": "Dwyane Wade",
+    "price": 109.95,
+    "description": "Known for his eye-catching pre-game outfits, Dwyane Wade solidified himself as a style icon and became an important facet of Fashion Week.",
+    "category": "Sportsman",
+    "image": "https://www.wayofwade.com/cdn/shop/files/AJMU005-1-MXK-WHITE-1.jpg?v=1703581010&width=800",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 19,
+    "title": "Lonzo Ball",
+    "price": 109.95,
+    "description": "The clothing label is comprised of casual staples such as hats, T-shirts, hoodies and more all embellished with Big Baller Brand insignias.",
+    "category": "Sportsman",
+    "image": "https://fanatics.frgimages.com/chicago-bulls/mens-homage-demar-derozan/zach-lavine/lonzo-ball-heathered-red-chicago-bulls-triple-threat-player-tri-blend-t-shirt_pi4826000_altimages_ff_4826743-e5b16d6579f43efd6079alt2_full.jpg?_hv=2&w=900",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 20,
+    "title": "LeBron James",
+    "price": 109.95,
+    "description": "On top of the range of men’s and women’s options, LeBron designed his first woman’s basketball shoe alongside three Harlem Fashion Row designers—Fe Noel, Undra Celeste and Kimberly Goldson—dubbed the HFR x LeBron 16.",
+    "category": "Sportsman",
+    "image": "https://fanatics.frgimages.com/los-angeles-lakers/mens-fanatics-branded-lebron-james-black-los-angeles-lakers-most-points-in-nba-history-t-shirt_pi5340000_altimages_ff_5340975-ee350350c8782755b91balt2_full.jpg?_hv=2&w=900",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 21,
+    "title": "Roger Federer",
+    "price": 109.95,
+    "description": "Roger Federer, who currently holds the most Grand Slam titles of any male tennis player ever, also has his own fashion line, making good use of his “RF” initials.",
+    "category": "Sportsman",
+    "image": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459254/sub/goods_459254_sub14.jpg?width=750",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 22,
+    "title": "Neymar Jr.",
+    "price": 109.95,
+    "description": "When Neymar Jr. isn’t making headlines for lighting up the pitch at Parc desPrinces, the 28-year-old is turning heads with his eye-catching outfits.",
+    "category": "Sportsman",
+    "image": "https://whatsonthestar.com/_ipx/f_webp,h_800,q_70/wotscdn/uploads/1709317260720.png",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 23,
+    "title": "Stephen Curry",
+    "price": 109.95,
+    "description": "Teaming up with Express, Curry’s product lineup includes slim-fit pants, fitted button-downs, T-shirts, and a range of accessories.",
+    "category": "Sportsman",
+    "image": "https://underarmour.scene7.com/is/image/Underarmour/PS1383384-001_HF?rp=standard-0pad%7CpdpMainDesktop&scl=0.72&fmt=jpg&qlt=85&resMode=sharp2&cache=on%2Con&bgc=f0f0f0&wid=1836&hei=1950&size=1500%2C1500",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+
+
+
+
+
+  {
+    "id": 7,
+    "title": "selena gomez hoodie",
+    "price": 5828.83,
+    "description": "Look at her now selena gomez album  oversized t shirt",
+    "category": "Actors",
+    "image": "https://i.pinimg.com/564x/b3/30/66/b3306614e6cfb45a560cb37a050f6592.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 8,
+    "title": "salman khan",
+    "price": 1899,
+    "description": "Being Human Men Regular Fit T-Shirts-Forest Green",
+    "category": "Actors",
+    "image": "https://pictures.kartmax.in/cover/live/600x800/quality=6/sites/w0ACRcy407Pb14QWUoSQ/product-images/BHP24003-FOREST%20GREEN_1.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 9,
+    "title": "hritik roshan",
+    "price": 384,
+    "description": "Performance running shoes never looked so good.",
+    "category": "Actors",
+    "image": "https://i.pinimg.com/564x/5e/33/07/5e33077c19a6241eb73fadcaf7e4e275.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  
+  {
+    "id": 10,
+    "title": "shahid kapoor",
+    "price": 2999,
+    "description": "Solid Jacket with Band Collar",
+    "category": "Actors",
+    "image": "https://assets.ajio.com/medias/sys_master/root/hd3/h96/14277274959902/-473Wx593H-460482869-navy-MODEL.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 11,
+    "title": "alia bhatt",
+    "price": 629,
+    "description": "This red colour blocked Half Sleeves Polo T-Shirt with badge will transport you to be the sailor of your dreams!",
+    "category": "Actors",
+    "image": "https://cdn.pixelspray.io/v2/black-bread-289bfa/ofVBQK/original/edamamma-product/EAT3KBTS118-10Y/665/EAT3KBTS118-10Y_1_8254.webp",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+
+
+
+
+    {
+    "id": 1,
+    "title": "Vanoss",
+    "price": 2500,
+    "description": "VanossGaming, or just Vanoss, is a Canadian YouTuber. He loves everything about gaming, and that’s what his YouTube channel is mostly about. From time to time, Vanoss mixes things up with animated gaming sketches.",
+    "category": "YouTubers",
+    "image": "https://vanoss.3blackdot.com/cdn/shop/files/VNS_HOODIE_VISION_BACK_BLACK_480x480.png?v=1700529749",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 2,
+    "title": "MKBHD(Marques Brownlee)",
+    "price": 1999,
+    "description": "The channel stands out for its high-quality video production, clear explanations, and Marques’ ability to break down complex technical features into understandable terms.",
+    "category": "YouTubers",
+    "image": "https://imgproxy.fourthwall.com/kcumRh9MvOylWhKBzZXIlXYYgFpCztfWM0tQufr5chU/w:533/sm:1/aHR0cHM6Ly9zdG9y/YWdlLmdvb2dsZWFw/aXMuY29tL2Nkbi5m/b3VydGh3YWxsLmNv/bS9vZmZlci9zaF81/YTEyZTQ2MC0xZTI3/LTQ2ODAtYjIwNi03/NzA3NDI0MjcwM2Ev/OGFiNzAyZmQtNDY5/MC00MzAyLWE2OTct/NjY3YTQxNWUyYTRl/LmpwZWc.webp",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 3,
+    "title": "Daniel(DanTDM)",
+    "price": 2399,
+    "description": "Daniel, or DanTDM, is an English gaming enthusiast who’s known for his online gaming series.",
+    "category": "YouTubers",
+    "image": "https://uk.dantdmshop.com/cdn/shop/files/Screenshot-2022-06-13-at-09.14.35_cbc34580-409b-4da9-b07b-5debecc7c783_600x.png?v=1655110594",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 4,
+    "title": "Evan and Katelyn",
+    "price": 5000,
+    "description": "Evan and Katelyn are a married couple whose YouTube channel is a delightful mix of DIY projects, home renovations, and crafts.",
+    "category": "YouTubers",
+    "image": "https://imgproxy.fourthwall.com/r_0r18vPyg4qKxuP85C1sFcBo-DiwiKudnCHQcp3hDw/w:720/sm:1/aHR0cHM6Ly9zdG9y/YWdlLmdvb2dsZWFw/aXMuY29tL2Nkbi5m/b3VydGh3YWxsLmNv/bS9vZmZlci9zaF84/Yjg3MGY2Yi1iOTgw/LTRmMDctYjBhYi0w/YmE5MmU3MTQ1OWUv/OGQxYTYxOGYtMzAy/NC00MjQzLWI2ZWEt/MmYzNTA5YzM0ZmI3/LmpwZWc.webp",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 5,
+    "title": "Zach King",
+    "price": 3999,
+    "description": "Zach initially got famous through his seemingly impossible Vines, but really took off on Instagram and YouTube—you’ve probably seen at least one of his magic videos.",
+    "category": "YouTubers",
+    "image": "https://zachking.store/cdn/shop/products/OCT12889_720x.jpg?v=1540967406",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 6,
+    "title": "Smosh",
+    "price": 4500,
+    "description": "At its core, the Smosh YouTube channel is a team of funny people who enjoy creating comedy sketches. ",
+    "category": "YouTubers",
+    "image": "https://smosh.com/cdn/shop/files/2_770x_crop_center.png?v=1711033987",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  }
+]
