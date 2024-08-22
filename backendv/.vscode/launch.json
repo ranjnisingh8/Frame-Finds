@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-WorkersApplication<workers>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.helpify.workers.workers.WorkersApplication",
+            "projectName": "workers",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
